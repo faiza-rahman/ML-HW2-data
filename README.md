@@ -1,7 +1,7 @@
 # ML-HW2-data
 
 # PART 2:<br>
-In order to build and run this code, sklearn, pandas, tabulate, itertools, and matplotlib must be installed in order to utilize the library functions.
+In order to build and run this code, sklearn, pandas, tabulate, itertools, and matplotlib must be installed in order to utilize the library functions. No files need to be downloaded to run the code. The dataset is being hosted on github from the following link: https://github.com/faiza-rahman/ML-HW2-data/blob/main/pendigits2.csv
 
 Libraries used:<br>
 sklearn, pandas, tabulate, itertools, matplotlib
