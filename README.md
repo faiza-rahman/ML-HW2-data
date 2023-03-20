@@ -7,5 +7,5 @@ Libraries used:<br>
 sklearn, pandas, tabulate, itertools, matplotlib
 
 In our code, there is a warning that outputs when we run our code:<br>
-future warning: the frame.append method is depricated and will be removed from pandas in a future version 
+"future warning: the frame.append method is depricated and will be removed from pandas in a future version"
 This warning does impact the output of the code, but may need to be fixed if pandas is updated in the future.
